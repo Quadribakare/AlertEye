@@ -1,0 +1,14 @@
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.zip
+*.npy
+*.h5
+*.pkl
+*.pt
+sourcePar*/
